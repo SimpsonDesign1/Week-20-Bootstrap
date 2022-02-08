@@ -16,7 +16,7 @@
     background-color: dodgerblue;
 }
 .row {
-    /* margin-bottom: 50px; */
+    margin-bottom: 50px;
     max-width: 1200px;
     flex-direction: row;
     justify-content: center;
