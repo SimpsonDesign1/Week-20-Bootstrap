@@ -12,7 +12,7 @@
 .customNav {
     position: fixed;
     width: 100%;
-    background: url("../images/transparency.png");
+    background: url(/images/transparency.png);
     background-color: transparent !important;
     background-size: cover;
     z-index: 10;
@@ -34,7 +34,7 @@
   
   /* Navigation dropdown menu */
   .dropdown-menu {
-    background: url("../images/transparency.png");
+    background: url(/images/transparency.png)
     background-color: transparent !important;
     background-size: cover;
   }
